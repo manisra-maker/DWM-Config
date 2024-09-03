@@ -20,6 +20,10 @@ Allows applications to be aware of multiple monitors and manage windows across t
 
 keybinding 
 
+You could also refer these keybindings from github 
+
+https://gist.github.com/erlendaakre/12eb90eef84a3ab81f7b531e516c9594
+
 Navigation 
 
 alt+shift+enter -- new window 
